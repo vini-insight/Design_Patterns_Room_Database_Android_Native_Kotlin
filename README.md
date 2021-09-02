@@ -3,9 +3,9 @@
 
 ### Tecnologias utilizadas:
 
-  Room
-  MVVM
-  ViewBinding
-  LiveData
-  ListAdapter
-  Material Design
+    Room
+    MVVM
+    ViewBinding
+    LiveData
+    ListAdapter
+    Material Design
